@@ -1,1 +1,1 @@
-In Insertion Sort, inserting a node into the sorted list requires only pointer manipulations, making it efficient compared to Bubble Sort and Selection Sort
+If we use linked list for data structure ,in Insertion Sort , inserting a node into the sorted list requires only pointer manipulations, making it efficient compared to Bubble Sort and Selection Sort.
